@@ -50,10 +50,8 @@
 - **Enhanced Security**: Improvements to user authentication and data protection.
 - **UI Enhancements**: Better user interface for easier navigation and use.
 
-## Author
+### Acknowledgments
+- Special thanks to Mostafa S. Ibrahim for his guidance and project inspiration.
+---
 
-**Mostafa S. Ibrahim**
-- Artificial Intelligence & Computer Vision Researcher
-- PhD from Simon Fraser University - Canada
-- Bachelor / MSc from Cairo University - Egypt
-- Ex-Software Engineer / ICPC World Finalist
+Feel free to contribute to this project by forking the repository and submitting pull requests. For any issues or suggestions, please open an issue in the GitHub repository.
